@@ -1,0 +1,41 @@
+h1{
+    color: green;
+    height: 150px;
+    background: rgba(194, 174, 174, 0.408);
+    text-align: center;
+    line-height: 150px;
+}
+/* заголовок 1 уровня, зделали цвет - зеленый, сделали высоту в 150 px..... */
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: help;
+}
+/*  */
+h3{
+    letter-spacing: 5px;
+    cursor: alias;
+}
+/*  */
+h4{
+    font-size: 46px;
+    cursor: cell;
+}
+h5{
+    text-align: center;
+    cursor: col-resize;
+
+}
+h6{
+    cursor: crosshair;
+    text-align: right;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgba(128, 128, 128, 0.296);
+    padding: 10px;
+
+}
+a{
+    text-decoration: none;
+    color: green;
+}
