@@ -99,3 +99,8 @@ ul{
     margin-top: 100px;
 }
 
+footer{
+    height: 200px;
+    background-color: rgba(128, 128, 128, 0.225);
+    text-align: center;
+}
